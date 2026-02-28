@@ -8,6 +8,13 @@
       "when": 1771749491500,
       "tag": "0000_familiar_king_bedlam",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1772292092540,
+      "tag": "0001_clammy_smiling_tiger",
+      "breakpoints": true
     }
   ]
 }
